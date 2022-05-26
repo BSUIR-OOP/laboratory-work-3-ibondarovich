@@ -1,0 +1,2 @@
+{'Type': laba3.Classes.Bird, 'Age': 5, 'Color': dsf, 'Name': hgf}
+{'Type': laba3.Classes.Dog, 'Age': 76, 'Color': gfh, 'Name': fgh}
